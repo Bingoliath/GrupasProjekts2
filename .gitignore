@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+*.xml
+*.iml
+# Datasource local storage ignored files
+/../../../../../:\uldis\Programming\GrupasProjekts2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
