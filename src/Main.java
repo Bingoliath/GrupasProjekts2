@@ -6,5 +6,6 @@ public class Main {
         //yaaaaaaaaas
         //blablabla
         //gejs
+        System.out.println("zilais valis");
     }
 }
