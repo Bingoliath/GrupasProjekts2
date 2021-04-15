@@ -1,0 +1,17 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello World!\");\r\n        System.out.println(\"maneemejeff\");\r\n        System.out.println(\"branch?\");\r\n        //yaaaaaaaaas\r\n        //blablabla\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+--- a/src/Main.java	(revision 3c897f98c0b12453c1e8259fdabbb9c38797616f)
++++ b/src/Main.java	(date 1618492853718)
+@@ -5,5 +5,6 @@
+         System.out.println("branch?");
+         //yaaaaaaaaas
+         //blablabla
++        //taaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+     }
+ }
